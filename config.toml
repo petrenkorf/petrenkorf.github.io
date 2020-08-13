@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "pt-BR"
+title = "Petris RF"
+theme = "noteworthy"
+disqusShortname = "petrenkorf"
